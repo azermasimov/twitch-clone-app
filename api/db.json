@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Azer Masimov",
+      "description": "Test",
+      "id": 1
+    },
+    {
+      "title": "Test",
+      "description": "test description",
+      "userId": "117121234004732441420",
+      "id": 2
+    }
+  ]
+}
